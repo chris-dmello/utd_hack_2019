@@ -1,6 +1,18 @@
 ## UTD Hacktober 2019
 This source code is provided by T-Mobile US solely for the purpose of expediting development of software projects under the UTD Hacktober 2019 hackathon.  All other use or distribution of this source code is not authorized without T-Mobile US's explicit and written approval.
 
+
+The promise of XR technology to change our lives for the better is everywhere, but what does that change look like in a retail setting? Join T-Mobile in the UTD Maker's space for the 3rd Annual Hacktober on October 26-27, 2019.
+
+This year, we challenge student teams to innovate on how to apply xR technology to the Metro by T-Mobile brand in retail, care, and beyond. Using physical gear like headsets, phones, and cameras provided by thesponsors Microsoft and Samsung, you'll have 24 hours to design and execute a solution incorporating augmented and/or virtual reality in some meaningful way.
+
+Choose from one of the use cases provided or come with your own problem to solve. No matter what, your solution should bring positive impact to the customer's experience whether browsing, buying, or receiving support!
+
+1) Virtual Gamification for Brand Engagement
+2) In-Store Experience for Product Exploration
+3) Retail's Choice (TBD)
+4) Team's Choice
+
 The below is a simple starter application that can be used for a Unity GearVR application.
 
 ### Download and Install
