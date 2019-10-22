@@ -1,4 +1,6 @@
 ## UTD Hacktober 2019
+This source code is provided by T-Mobile US solely for the purpose of expediting development of software projects under the UTD Hacktober 2019 hackathon.  All other use or distribution of this source code is not authorized without T-Mobile US's explicit and written approval.
+
 The below is a simple starter application that can be used for a Unity GearVR application.
 
 ### Download and Install
